@@ -1,0 +1,16 @@
+{
+  "name": "quai-transaction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node sendTransaction.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "quais": "^1.0.0-alpha.33"
+  }
+}
