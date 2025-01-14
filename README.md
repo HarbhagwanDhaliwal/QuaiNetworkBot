@@ -19,6 +19,7 @@ This bot for automating transactions on the Quai Network Testnet using **QuaiSwa
 - Designed for increasing on-chain activity with potential benefits.
 
 ---
+```
 
 ## Installation 🛠️
 
