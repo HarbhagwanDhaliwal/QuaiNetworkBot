@@ -47,7 +47,7 @@ This bot for automating transactions on the Quai Network Testnet using **QuaiSwa
      ```
    - Add your **Quai Network private key** and **wallet address**.
 
-### Step 2: Generate Hex Data with Visual Guide
+### Step 2: Generate Hex Data 
 1. Visit [QuaiSwap](https://quaiswap.io/).
 2. Initiate a small swap (e.g., `0.012` Quai to Qswap).
 3. In the wallet popup, locate and **copy the Hex Data**:
